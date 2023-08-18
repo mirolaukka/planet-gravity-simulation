@@ -34,3 +34,6 @@ This simulation is a simplified representation of gravitational interactions and
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own educational purposes.
+
+
+### Work-in-progress
